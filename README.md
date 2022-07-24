@@ -134,3 +134,6 @@ Laravel存在命令执行漏洞，攻击者可利用漏洞进行远程代码执�
 ### 漏洞详情
 受影响版本：Laravel Laravel 9.1.8
 目前厂商已发布升级补丁以修复漏洞，详情请关注厂商主页：[https://laravel.com/](https://laravel.com/)
+
+
+<img align='right' src="https://profile-counter.glitch.me/Radon6/count.svg" width="100">
